@@ -54,7 +54,7 @@ const Chat = ({ data }) => {
           className="overflow-y-auto flex-grow border border-gray-300 rounded-lg p-4"
           style={{
             minHeight: "200px",
-            maxHeight: "700px",
+            maxHeight: "400px",
             overflowY: "auto", // Make sure overflowY is set to auto to allow scrolling
           }}
         >
