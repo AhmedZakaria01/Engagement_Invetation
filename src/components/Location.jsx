@@ -5,6 +5,8 @@ import React from "react";
 import { Navigate, useNavigate } from "react-router-dom";
 
 const OpenGoogleMaps = () => {
+  const authorized = sessionStorage.getItem("authToken");
+
   // Replace this with your desired location (address or coordinates)
 
   // Function to open Google Maps with the specified location
@@ -25,6 +27,14 @@ const OpenGoogleMaps = () => {
         className="fixed top-2 text-sm left z-10 px-3 py-1 text-white rounded-r-lg shadow-lg hover:opacity-90 transition-all flex items-center gap-2 bg-gradient-to-r from-[#7c6659] via-[#774242] to-[#b55858]  "
       >
         Location
+        <FontAwesomeIcon icon={faLocationDot} className="px-2 text-white" />
+      </button>
+
+      <button
+        onClick={() => navigate("/private-login")}
+        className="fixed top-20 text-sm left z-10 px-3 py-1 text-white rounded-r-lg shadow-lg hover:opacity-90 transition-all flex items-center gap-2 bg-gradient-to-r from-[#7c6659] via-[#774242] to-[#b55858]  "
+      >
+        Login
         <FontAwesomeIcon icon={faLocationDot} className="px-2 text-white" />
       </button>
     </>
