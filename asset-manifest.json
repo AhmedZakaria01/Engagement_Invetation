@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Engagement_Invetation/static/css/main.0c694fbc.css",
-    "main.js": "/Engagement_Invetation/static/js/main.350e3511.js",
+    "main.css": "/Engagement_Invetation/static/css/main.f12696ba.css",
+    "main.js": "/Engagement_Invetation/static/js/main.44cbd164.js",
     "static/js/952.752e13e3.chunk.js": "/Engagement_Invetation/static/js/952.752e13e3.chunk.js",
     "static/media/bg.png": "/Engagement_Invetation/static/media/bg.683ca39b13d3c79c2ba6.png",
     "static/media/us lg.png": "/Engagement_Invetation/static/media/us lg.235cdaf7d4962fdca5a9.png",
     "static/media/us md.png": "/Engagement_Invetation/static/media/us md.f2de305c6ff588c4c151.png",
     "static/media/Frame 1.png": "/Engagement_Invetation/static/media/Frame 1.d005f75431804177b12b.png",
     "index.html": "/Engagement_Invetation/index.html",
-    "main.0c694fbc.css.map": "/Engagement_Invetation/static/css/main.0c694fbc.css.map",
-    "main.350e3511.js.map": "/Engagement_Invetation/static/js/main.350e3511.js.map",
+    "main.f12696ba.css.map": "/Engagement_Invetation/static/css/main.f12696ba.css.map",
+    "main.44cbd164.js.map": "/Engagement_Invetation/static/js/main.44cbd164.js.map",
     "952.752e13e3.chunk.js.map": "/Engagement_Invetation/static/js/952.752e13e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c694fbc.css",
-    "static/js/main.350e3511.js"
+    "static/css/main.f12696ba.css",
+    "static/js/main.44cbd164.js"
   ]
 }
