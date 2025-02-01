@@ -43,12 +43,12 @@ const Chat = ({ data }) => {
   return (
     <div className="chat-bg h-screen bg-black flex flex-col items-center justify-center  ">
       <div className="w-full max-w-2xl shadow-xl rounded-2xl p-2 flex flex-col">
-        <h3 className="text-sm font-think font-san text-center text-white pb-3">
+        {/* <h3 className="text-sm font-think font-san text-center text-white pb-3">
           Cool, you're very special because you're here now ♥ <br /> Now You Can
           Enjoy Our Engagement Celebrations ♥
-        </h3>
+        </h3> */}
         <h2 className="text-xl font-mono font-bold text-center text-white mb-4">
-          Boyka ♥ Fulla
+          Mohamed ♥ Nada
         </h2>
         <div
           className="overflow-y-auto flex-grow border border-gray-300 rounded-lg p-4"

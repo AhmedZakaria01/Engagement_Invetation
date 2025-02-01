@@ -7,7 +7,7 @@ const ProtectRouter = ({ children }) => {
 
   // If not authenticated, redirect to the login page
   if (!isAuthenticated) {
-    return <Navigate to="/private-login-boyka-fulla" />;
+    return <Navigate to="/messageViewer" />;
   }
 
   // If authenticated, render the children (the protected route)
