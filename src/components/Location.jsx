@@ -32,10 +32,9 @@ const OpenGoogleMaps = () => {
 
       <button
         onClick={() => navigate("/private-login")}
-        className="fixed top-20 text-sm left z-10 px-3 py-1 text-white rounded-r-lg shadow-lg hover:opacity-90 transition-all flex items-center gap-2 bg-gradient-to-r from-[#7c6659] via-[#774242] to-[#b55858]  "
+        className="fixed top-2 text-sm right-0 z-10 px-3 py-1 text-white rounded-l-lg shadow-lg hover:opacity-90 transition-all flex items-center gap-2 bg-gradient-to-r from-[#7c6659] via-[#774242] to-[#b55858] "
       >
         Login
-        <FontAwesomeIcon icon={faLocationDot} className="px-2 text-white" />
       </button>
     </>
   );
