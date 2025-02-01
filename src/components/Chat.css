@@ -1,5 +1,7 @@
 .chat-bg {
   background-image: url("../assets/Frame 1.png");
   height: 100dvb;
-    background-size: 100% 100%;
+  background-size: 100% 100%;
+  background-position: center center;
+
 }

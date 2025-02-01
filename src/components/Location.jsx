@@ -13,9 +13,9 @@ const OpenGoogleMaps = () => {
   const openGoogleMaps = () => {
     // Encode the address to make it URL-safe
 
-    // const googleMapsUrl = `https://maps.app.goo.gl/vCita2ihcjAF7dix9`;
-    // window.open(googleMapsUrl);
-    navigate("/messageViewer");
+    const googleMapsUrl = `https://maps.app.goo.gl/vCita2ihcjAF7dix9`;
+    window.open(googleMapsUrl);
+    // navigate("/messageViewer");
   };
 
   return (
@@ -25,13 +25,6 @@ const OpenGoogleMaps = () => {
         className="fixed top-2 text-sm left z-10 px-3 py-1 text-white rounded-r-lg shadow-lg hover:opacity-90 transition-all flex items-center gap-2 bg-gradient-to-r from-[#7c6659] via-[#774242] to-[#b55858]  "
       >
         Location
-        <FontAwesomeIcon icon={faLocationDot} className="px-2 text-white" />
-      </button>
-      <button
-        onClick={openGoogleMaps}
-        className="fixed top-20 text-sm left z-10 px-3 py-1 text-white rounded-r-lg shadow-lg hover:opacity-90 transition-all flex items-center gap-2 bg-gradient-to-r from-[#7c6659] via-[#774242] to-[#b55858]  "
-      >
-        Messages
         <FontAwesomeIcon icon={faLocationDot} className="px-2 text-white" />
       </button>
     </>
