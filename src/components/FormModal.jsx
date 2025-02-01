@@ -94,7 +94,7 @@ const FormModal = ({ onClose }) => {
               Nada
             </option>
             <option className="text-sm" value="Mohamed & Nada">
-              Mohameed & Nada
+              Mohamed & Nada
             </option>
           </select>
         </div>

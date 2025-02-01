@@ -37,7 +37,7 @@ const Login = () => {
     <div className="login-header min-h-screen flex items-center justify-center">
       <div className="bg-black/50 p-8 py-24 rounded-lg shadow-md w-full max-w-md">
         <h2 className="text-xl font-bold font-mono text-white mb-6 text-center">
-          if you can login <br /> That Means you are spcial ❤
+          if you can login <br /> That Means you are special ❤
         </h2>
         <form onSubmit={handleLogin} className="space-y-4">
           <div>
