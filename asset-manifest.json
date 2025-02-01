@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Engagement_Invetation/static/css/main.f12696ba.css",
-    "main.js": "/Engagement_Invetation/static/js/main.b3f06e91.js",
+    "main.js": "/Engagement_Invetation/static/js/main.e2d92f94.js",
     "static/js/952.752e13e3.chunk.js": "/Engagement_Invetation/static/js/952.752e13e3.chunk.js",
     "static/media/bg.png": "/Engagement_Invetation/static/media/bg.683ca39b13d3c79c2ba6.png",
     "static/media/us lg.png": "/Engagement_Invetation/static/media/us lg.235cdaf7d4962fdca5a9.png",
@@ -9,11 +9,11 @@
     "static/media/Frame 1.png": "/Engagement_Invetation/static/media/Frame 1.d005f75431804177b12b.png",
     "index.html": "/Engagement_Invetation/index.html",
     "main.f12696ba.css.map": "/Engagement_Invetation/static/css/main.f12696ba.css.map",
-    "main.b3f06e91.js.map": "/Engagement_Invetation/static/js/main.b3f06e91.js.map",
+    "main.e2d92f94.js.map": "/Engagement_Invetation/static/js/main.e2d92f94.js.map",
     "952.752e13e3.chunk.js.map": "/Engagement_Invetation/static/js/952.752e13e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f12696ba.css",
-    "static/js/main.b3f06e91.js"
+    "static/js/main.e2d92f94.js"
   ]
 }
