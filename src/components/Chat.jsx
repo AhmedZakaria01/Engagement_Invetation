@@ -30,7 +30,7 @@ const Chat = ({ data }) => {
                 {/* Timestamp */}
               </div>
             ),
-            senderName: `From ${msg.name} - - -  to    - - - ${msg.to}`, // Sender's name
+            senderName: `From : ${msg.name}    ----  to ----    ${msg.to}`, // Sender's name
             messageTo: msg.to, // Receiver's name
           });
 
