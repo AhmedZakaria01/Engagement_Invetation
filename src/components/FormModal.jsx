@@ -93,7 +93,7 @@ const FormModal = ({ onClose }) => {
             <option className="text-sm" value="Nada">
               Nada
             </option>
-            <option className="text-sm" value="Ahmed & Sahar">
+            <option className="text-sm" value="Mohamed & Nada">
               Mohameed & Nada
             </option>
           </select>
